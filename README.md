@@ -30,7 +30,7 @@
    - 自社研修(外部講習) Spring Bootを使用したアプリ開発。
    - 様々課題をこなし、最終的に5人チームでクイズ形式のアプリを作成。チームのサブリーダーとしてチームメンバーのエラー解決サポートやミーティングでのファシリティを担当。
    #### 使用技術
-   | Spring Boot | Java | HTML | CSS | Javascript | MySQL | MariaDB | Eclipse | Github 
+   | Spring Boot | Java | HTML | CSS | Javascript | MySQL | MariaDB | Eclipse | Github |
    ### 2024年6月~8月(約3か月)
    #### 外部のAI技術者研修に参加
    - 関西電子情報産業協同組合(KEIS) 主催 AI研修に自主参加。サイバー大学教授の講師の方々から講義を受ける。
@@ -38,9 +38,9 @@
    - 開発環境としてGoogle ColaboratoryとPythonを使用。座学と実践、課題を隔週で1日8時間ほどのカリキュラム。
    #### アルゴリズム等
    ##### 機械学習
-   | 線形回帰 | ロジスティック回帰 | サポートベクターマシーン | 決定木 | ランダムフォレスト | k近傍法 | クラスタリング
+   | 線形回帰 | ロジスティック回帰 | サポートベクターマシーン | 決定木 | ランダムフォレスト | k近傍法 | クラスタリング |
    ##### 深層学習
-   | 全結合ネットワーク | 畳み込みニューラルネットワーク | オートエンコーダ 
+   | 全結合ネットワーク | 畳み込みニューラルネットワーク | オートエンコーダ |
    ### 2023年9月(約2週間)
    #### 社内研修の一環でC#によるアプリ開発
    - 社内研修(非正式)にてC#(ASP.NET MVC)を使用したWebアプリ開発を行う。
@@ -84,7 +84,7 @@
    - デジタル庁のデザインシステムをFigmaにインポートし、それを更にAWS Amplifyにインポートすることでコンポートの自動生成を行い、それらを使用して画面の作成を行う。DBとのやり取りはAmplifyのAPI追加機能を使用してGraphQLを使用。
    - OSSを使用してテンプレートファイルに動的に文字を入力し、印刷する画面の実装も行う。バリデーションにはZodを使用。
    #### 主に使用したサービス
-   AWS Amplify | React | Typescript | Figma | GraphQL | PostgreSQL | Zod
+   AWS Amplify | React | Typescript | Figma | GraphQL | PostgreSQL | Zod | 
 
    ### 電気系事業者用サービスの新規インフラ環境開発案件【AWS/Typescript/Python】(2023年6月~12月)
    #### 概要
@@ -96,7 +96,7 @@
    - AWS CDKとTypescript(LambdaはPython)を使用したインフラ基盤開発にメンバーとして参画。主に監視系の構築を任される。
    - 主に担当したAWSサービスは下記。その他開発が進んだあとは細かな作業としてALB、セキュリティグループ、EC2、S3、各種セキュリティサービスなど複数サービスに関わった。
    #### 主に担当したサービス
-   CloudWatch(Logs,Alarm含む) | EventBridge | SNS| Lambda | StepFunctions
+   CloudWatch(Logs,Alarm含む) | EventBridge | SNS| Lambda | StepFunctions | 
 
 
    
